@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\obj\Debug\netcoreapp3.1\Fact.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\obj\Debug\netcoreapp3.1\Fact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\obj\Debug\netcoreapp3.1\Fact.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\obj\Debug\netcoreapp3.1\Fact.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\obj\Debug\netcoreapp3.1\Fact.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\bin\Debug\netcoreapp3.1\Fact.exe
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\bin\Debug\netcoreapp3.1\Fact.deps.json
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\bin\Debug\netcoreapp3.1\Fact.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\bin\Debug\netcoreapp3.1\Fact.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\bin\Debug\netcoreapp3.1\Fact.dll
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\bin\Debug\netcoreapp3.1\Fact.pdb
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\obj\Debug\netcoreapp3.1\Fact.dll
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\obj\Debug\netcoreapp3.1\Fact.pdb
+C:\Users\Amit Pegu\Desktop\test\Fact\Fact\obj\Debug\netcoreapp3.1\Fact.genruntimeconfig.cache
